@@ -24,13 +24,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rheo-chiti&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rheo-chiti&layout=compact&langs_count=8&theme=algolia&hide=c%23,html"/>
 </p>
-
-### Top Repositories
-  <p align="justify">
-  <a href="https://github.com/rheo-chiti/Hack36-fnatics">
-    <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rheo-chiti&repo=Hack36-fnatics" width=400 />
-  </a>
-  <a href="https://github.com/rheo-chiti/Hack36-Skeltos">
-    <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rheo-chiti&repo=Hack36-Skeltos" width=400 />
-  </a>
-  </p>
