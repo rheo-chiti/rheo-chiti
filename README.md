@@ -8,7 +8,7 @@
 
 ### Important Links
 - Open Source Contributions - [EOS-icons landing PRs](https://gitlab.com/eos-solutions/eos-icons-landing/-/merge_requests?scope=all&state=merged&author_username=rheo-chiti)
-- Competitive Programming - Top 2.5% globally on [Codeforces](https://codeforces.com/profile/rheo-chiti), Top 4% globally on [Codechef](https://www.codechef.com/users/rheo), Top 7% globally on [Leetcode](https://leetcode.com/rheo-chiti/)
+- Competitive Programming - Top 2.5% globally on [Codeforces](https://codeforces.com/profile/rheo-chiti), Top 4% globally on [Codechef](https://www.codechef.com/users/rheo), Top 4% globally on [Leetcode](https://leetcode.com/rheo-chiti/)
 - You can reach me here:- Linkedin - [chitransh_anand](https://www.linkedin.com/in/chitransh-anand/), email - chitransh.326@gmail.com 
 
 ### Tech Stack
