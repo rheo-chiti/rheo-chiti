@@ -1,4 +1,4 @@
-## 👋 &nbsp;Hey there! I'm Chitransh Anand <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=rheo-chiti.rheo-chiti" />
+## 👋 &nbsp;Hey there! I'm Chitransh Anand
 
 - I am a Software Engineer 2 at Oracle India, working in Oracle Cloud Infrastructure Marketplace team.   
 - I am a graduate from NIT Allahabad with Information Technology branch in the year 2022.
